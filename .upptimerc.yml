@@ -7,12 +7,30 @@ sites:
     url: https://nomodo.io
     assignees:
       - ecelustka
-  # - name: Wikipedia
-  #   url: https://en.wikipedia.org
-  # - name: Hacker News
-  #   url: https://news.ycombinator.com
-  # - name: Test Broken Site
-  #   url: https://thissitedoesnotexist.koj.co
+  - name: Admin BE DEV
+    url: https://https://adminbe-prod.nomodo.io/health
+    assignees:
+      - podanypepa
+  - name: Admin BE PROD
+    url: https://https://adminbe-prod.nomodo.io/health
+    assignees:
+      - podanypepa
+  - name: Wizard BE DEV
+    url: https://https://wizardbe-dev.nomodo.io/health
+    assignees:
+      - podanypepa
+  - name: Wizard BE PROD
+    url: https://https://wizardbe-prod.nomodo.io/health
+    assignees:
+      - podanypepa
+  - name: Web BE DEV
+    url: https://https://webbe-dev.nomodo.io/health
+    assignees:
+      - podanypepa
+  - name: Web BE PROD
+    url: https://https://webbe-prod.nomodo.io/health
+    assignees:
+      - podanypepa
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
