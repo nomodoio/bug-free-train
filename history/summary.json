@@ -10,12 +10,52 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 124,
-    "timeDay": 124,
-    "timeWeek": 124,
-    "timeMonth": 124,
-    "timeYear": 124,
+    "time": 184,
+    "timeDay": 184,
+    "timeWeek": 184,
+    "timeMonth": 184,
+    "timeYear": 184,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Admin BE DEV",
+    "url": "https://https://adminbe-prod.nomodo.io/health",
+    "icon": "https://icons.duckduckgo.com/ip3/https.ico",
+    "slug": "admin-be-dev",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-01-04": 13
+    }
+  },
+  {
+    "name": "Admin BE PROD",
+    "url": "https://https://adminbe-prod.nomodo.io/health",
+    "icon": "https://icons.duckduckgo.com/ip3/https.ico",
+    "slug": "admin-be-prod",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-01-04": 13
+    }
   },
   {
     "name": "Wizard BE DEV",
@@ -23,18 +63,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/https.ico",
     "slug": "wizard-be-dev",
     "status": "down",
-    "uptime": "0.42%",
-    "uptimeDay": "0.42%",
-    "uptimeWeek": "0.42%",
-    "uptimeMonth": "0.42%",
-    "uptimeYear": "0.42%",
+    "uptime": "0.14%",
+    "uptimeDay": "0.14%",
+    "uptimeWeek": "0.14%",
+    "uptimeMonth": "0.14%",
+    "uptimeYear": "0.14%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-04": 3
+      "2023-01-04": 13
     }
   },
   {
@@ -43,18 +83,58 @@
     "icon": "https://icons.duckduckgo.com/ip3/https.ico",
     "slug": "wizard-be-prod",
     "status": "down",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-04": 3
+      "2023-01-04": 13
+    }
+  },
+  {
+    "name": "Web BE DEV",
+    "url": "https://https://webbe-dev.nomodo.io/health",
+    "icon": "https://icons.duckduckgo.com/ip3/https.ico",
+    "slug": "web-be-dev",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-01-04": 13
+    }
+  },
+  {
+    "name": "Web BE PROD",
+    "url": "https://https://webbe-prod.nomodo.io/health",
+    "icon": "https://icons.duckduckgo.com/ip3/https.ico",
+    "slug": "web-be-prod",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-01-04": 13
     }
   }
 ]
