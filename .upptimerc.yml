@@ -8,27 +8,27 @@ sites:
     assignees:
       - ecelustka
   - name: Admin BE DEV
-    url: https://https://adminbe-prod.nomodo.io/health
+    url: https://adminbe-prod.nomodo.io/health
     assignees:
       - podanypepa
   - name: Admin BE PROD
-    url: https://https://adminbe-prod.nomodo.io/health
+    url: https://adminbe-prod.nomodo.io/health
     assignees:
       - podanypepa
   - name: Wizard BE DEV
-    url: https://https://wizardbe-dev.nomodo.io/health
+    url: https://wizardbe-dev.nomodo.io/health
     assignees:
       - podanypepa
   - name: Wizard BE PROD
-    url: https://https://wizardbe-prod.nomodo.io/health
+    url: https://wizardbe-prod.nomodo.io/health
     assignees:
       - podanypepa
   - name: Web BE DEV
-    url: https://https://webbe-dev.nomodo.io/health
+    url: https://webbe-dev.nomodo.io/health
     assignees:
       - podanypepa
   - name: Web BE PROD
-    url: https://https://webbe-prod.nomodo.io/health
+    url: https://webbe-prod.nomodo.io/health
     assignees:
       - podanypepa
 
