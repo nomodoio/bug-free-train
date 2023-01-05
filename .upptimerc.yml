@@ -35,6 +35,14 @@ sites:
     url: https://bindctl.nomodo.io/health
     assignees:
       - podanypepa
+  - name: Manager DEV
+    url: https://mngr-dev.nomodo.io/health
+    assignees:
+      - podanypepa
+  - name: Manager PROD
+    url: https://mngr-prod.nomodo.io/health
+    assignees:
+      - podanypepa
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
