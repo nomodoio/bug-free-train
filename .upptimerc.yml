@@ -31,6 +31,10 @@ sites:
     url: https://webbe-prod.nomodo.io/health
     assignees:
       - podanypepa
+  - name: Bindctl PROD
+    url: https://bindctl.nomodo.io/health
+    assignees:
+      - podanypepa
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
