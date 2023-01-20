@@ -161,35 +161,39 @@
     "url": "https://mngr-dev.nomodo.io/health",
     "icon": "https://icons.duckduckgo.com/ip3/mngr-dev.nomodo.io.ico",
     "slug": "manager-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 526,
-    "timeDay": 426,
-    "timeWeek": 492,
-    "timeMonth": 526,
-    "timeYear": 526,
-    "dailyMinutesDown": {}
+    "time": 521,
+    "timeDay": 434,
+    "timeWeek": 486,
+    "timeMonth": 521,
+    "timeYear": 521,
+    "dailyMinutesDown": {
+      "2023-01-20": 0
+    }
   },
   {
     "name": "Manager PROD",
     "url": "https://mngr-prod.nomodo.io/health",
     "icon": "https://icons.duckduckgo.com/ip3/mngr-prod.nomodo.io.ico",
     "slug": "manager-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 529,
-    "timeDay": 410,
-    "timeWeek": 501,
-    "timeMonth": 529,
-    "timeYear": 529,
-    "dailyMinutesDown": {}
+    "time": 522,
+    "timeDay": 414,
+    "timeWeek": 491,
+    "timeMonth": 522,
+    "timeYear": 522,
+    "dailyMinutesDown": {
+      "2023-01-20": 0
+    }
   }
 ]
