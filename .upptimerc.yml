@@ -43,6 +43,14 @@ sites:
     url: https://mngr-prod.nomodo.io/health
     assignees:
       - podanypepa
+  - name: Traefik Manager DEV
+    url: https://t1-dev.nomodo.io/health
+    assignees:
+      - podanypepa
+  - name: Traefik Manager PROD
+    url: https://t1-prod.nomodo.io/health
+    assignees:
+      - podanypepa
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
