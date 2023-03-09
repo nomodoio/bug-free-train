@@ -1,7 +1,7 @@
 url: https://webbe-dev.nomodo.io/health
-status: down
-code: 502
-responseTime: 556
-lastUpdated: 2023-03-09T15:40:30.143Z
+status: up
+code: 200
+responseTime: 644
+lastUpdated: 2023-03-09T15:45:30.834Z
 startTime: Wed Jan 04 2023 17:14:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
