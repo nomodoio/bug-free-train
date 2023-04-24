@@ -24,17 +24,19 @@
     "url": "https://webbe.nomodo.io/health",
     "icon": "https://icons.duckduckgo.com/ip3/webbe.nomodo.io.ico",
     "slug": "web-be",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 169,
-    "timeDay": 233,
-    "timeWeek": 208,
+    "timeDay": 202,
+    "timeWeek": 203,
     "timeMonth": 169,
     "timeYear": 169,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-24": 0
+    }
   }
 ]
