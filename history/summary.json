@@ -1,5 +1,23 @@
 [
   {
+    "name": "Admin",
+    "url": "https://admin.nomodo.io",
+    "icon": "https://icons.duckduckgo.com/ip3/admin.nomodo.io.ico",
+    "slug": "admin",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 337,
+    "timeDay": 337,
+    "timeWeek": 337,
+    "timeMonth": 337,
+    "timeYear": 337,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Web",
     "url": "https://nomodo.io",
     "icon": "https://icons.duckduckgo.com/ip3/nomodo.io.ico",
@@ -11,8 +29,8 @@
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 208,
-    "timeDay": 334,
-    "timeWeek": 223,
+    "timeDay": 315,
+    "timeWeek": 227,
     "timeMonth": 241,
     "timeYear": 223,
     "dailyMinutesDown": {
@@ -20,6 +38,24 @@
       "2023-10-30": 25,
       "2023-09-21": 10
     }
+  },
+  {
+    "name": "Admin BE",
+    "url": "https://adminbe.nomodo.io/health",
+    "icon": "https://icons.duckduckgo.com/ip3/adminbe.nomodo.io.ico",
+    "slug": "admin-be",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 144,
+    "timeDay": 144,
+    "timeWeek": 144,
+    "timeMonth": 144,
+    "timeYear": 144,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Web BE",
@@ -33,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.33%",
     "time": 180,
-    "timeDay": 40,
+    "timeDay": 141,
     "timeWeek": 248,
-    "timeMonth": 219,
+    "timeMonth": 220,
     "timeYear": 180,
     "dailyMinutesDown": {
       "2024-01-02": 551,
