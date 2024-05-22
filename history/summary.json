@@ -44,9 +44,9 @@
     "url": "https://adminbe.nomodo.io/health",
     "icon": "https://icons.duckduckgo.com/ip3/adminbe.nomodo.io.ico",
     "slug": "admin-be",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -55,7 +55,9 @@
     "timeWeek": 233,
     "timeMonth": 205,
     "timeYear": 205,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-22": 0
+    }
   },
   {
     "name": "Web BE",
@@ -63,7 +65,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/webbe.nomodo.io.ico",
     "slug": "web-be",
     "status": "up",
-    "uptime": "98.78%",
+    "uptime": "98.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
