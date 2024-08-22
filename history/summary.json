@@ -4,19 +4,19 @@
     "url": "https://admin.nomodo.io",
     "icon": "https://icons.duckduckgo.com/ip3/admin.nomodo.io.ico",
     "slug": "admin",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 849,
-    "timeDay": 7873,
-    "timeWeek": 2526,
-    "timeMonth": 908,
-    "timeYear": 849,
+    "time": 854,
+    "timeDay": 5742,
+    "timeWeek": 2410,
+    "timeMonth": 926,
+    "timeYear": 854,
     "dailyMinutesDown": {
-      "2024-08-22": 0
+      "2024-08-22": 4
     }
   },
   {
