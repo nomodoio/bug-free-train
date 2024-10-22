@@ -4,10 +4,10 @@
     "url": "https://admin.nomodo.io",
     "icon": "https://icons.duckduckgo.com/ip3/admin.nomodo.io.ico",
     "slug": "admin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 826,
@@ -16,6 +16,7 @@
     "timeMonth": 418,
     "timeYear": 826,
     "dailyMinutesDown": {
+      "2024-10-22": 1,
       "2024-09-10": 4,
       "2024-08-22": 4
     }
@@ -25,18 +26,19 @@
     "url": "https://nomodo.io",
     "icon": "https://icons.duckduckgo.com/ip3/nomodo.io.ico",
     "slug": "web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 222,
+    "time": 221,
     "timeDay": 165,
     "timeWeek": 174,
     "timeMonth": 204,
     "timeYear": 219,
     "dailyMinutesDown": {
+      "2024-10-22": 0,
       "2024-06-11": 5,
       "2024-04-24": 5,
       "2023-10-30": 25
